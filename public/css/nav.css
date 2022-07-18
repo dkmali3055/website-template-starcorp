@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* body{
+  background: linear-gradient(#173F5F,#206398,#3caea3,#F6D55C,#ED5538);
+} */
+.navbar-brand {
+    background-image: url("../images/star2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 80%;
+    width: 60px;
+    height: 48px;
+  }
+  
+  .navbar-nav .nav-item:hover {
+    background-color: rgba(209, 216, 224, 0.4);
+  }

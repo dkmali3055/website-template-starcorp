@@ -1,0 +1,39 @@
+
+.service-container{
+    background:linear-gradient(#FFC0CB,#FFF4E6,#30F2C6,#ebd8f9);
+
+}
+.serviceheader{
+    font-size: 50px;
+    font-family: 'Lora', serif;
+}
+.serviceheader-service{
+    border-bottom: 1px solid  #2ECC71;
+}
+.clinephoto{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+/* .services-icon{
+    font-size: 80px;
+    display: block;
+    text-align: center;
+} */
+.services-icon{
+    font-size: 80px;
+    display: block;
+    text-align: center;
+}
+.services-info{
+    text-align: center;
+}
+.services{
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.servises-icon a:hover{
+    color: #2ECC71;
+    transition: 0.2s;
+}
